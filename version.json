@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/iBrandonShilling/yunda-optimizer-updates/main/",
+  "files": [
+    "dist/assets/index-D85SUjIQ.css",
+    "dist/assets/index-LHUXp7uA.js",
+    "dist/index.html",
+    "main.js",
+    "preload.js",
+    "version.json"
+  ]
+}
