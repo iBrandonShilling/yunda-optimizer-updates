@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "baseUrl": "https://raw.githubusercontent.com/iBrandonShilling/yunda-optimizer-updates/main/",
   "files": [
     "dist/index.html",
